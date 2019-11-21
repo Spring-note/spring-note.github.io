@@ -1,6 +1,9 @@
 # Spring-Note's Home page
 ### Markdown
 
+a=float(input())/100
+print(a)
+
 ```markdown
 Syntax highlighted code block
 
